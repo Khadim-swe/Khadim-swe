@@ -12,7 +12,7 @@
  
  <!--Social Media Icons -->
  <div id="social-media" align="center">
- <a href="www.linkedin.com/in/khadim-hussain-621826234">
+ <a href="https://www.linkedin.com/in/khadim-hussain-621826234">
  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
  <a/>
  </div>
