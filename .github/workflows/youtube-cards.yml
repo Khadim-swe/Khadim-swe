@@ -16,7 +16,7 @@ jobs:
           comment_tag_name: YOUTUBE-CARDS
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }} # Configured in Actions Secrets (see Wiki)
           max_videos: 6
-          base_url: https://ytcards.demolab.com/
+          base_url: https://www.youtube.com/channel/UCzNt-VWM8zN_A7wBbXCussw
           card_width: 250
           background_color: "#0d1117"
           title_color: "#ffffff"
