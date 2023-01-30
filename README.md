@@ -13,7 +13,25 @@
  <!--Social Media Icons -->
  <div id="social-media" align="center">
  <a href="https://www.linkedin.com/in/khadim-hussain-621826234">
- <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+ <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+ <a/>
+ <a href="https://www.youtube.com/channel/UCzNt-VWM8zN_A7wBbXCussw">
+ <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
+ <a/>
+ <a href="https://www.instagram.com/khadim.swe/">
+ <img src="https://img.shields.io/badge/InstaGram-yellow?style=for-the-badge&logo=instagram&logoColor=white">
+ <a/>
+ <a href="https://www.showwcase.com/khussain1051825">
+ <img src="https://img.shields.io/badge/Showcase-black?style=for-the-badge&logo=twitter&logoColor=white">
+ <a/>
+ <a href="https://www.fiverr.com/share/AoayoY">
+ <img src="https://img.shields.io/badge/Fiverr-darkgreen?style=for-the-badge&logo=fiverr&logoColor=white">
+ <a/>
+  <a href="https://web.facebook.com/profile.php?id=100089379739982">
+ <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white">
+ <a/>
+   <a href="https://khadim.epizy.com">
+ <img src="https://img.shields.io/badge/PortFolio-skyblue?style=for-the-badge&logo=portfolio&logoColor=white">
  <a/>
  </div>
  
