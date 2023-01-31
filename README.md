@@ -55,12 +55,13 @@
  ## 🐱‍💻Latest Blog Post
   <h3> 👨‍💻 Programing Languages</h3>
     <p>
-    <a href="#"> <img src="https://img.shields.io/badge/C++-349BDB?style=flat-square&logo=c++&logoColor=black" ></a>
-    <a href="#"> <img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html&logoColor=black" ></a>
-    <a href="#"> <img src="https://img.shields.io/badge/CSS-234945?style=flat-square&logo=css&logoColor=black" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/C++-349BDB?style=flat-square&logo=c#++&logoColor=black" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=html5&logoColor=black" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/CSS-347aef?style=flat-square&logo=css3&logoColor=black" ></a>
     <a href="#"> <img src="https://img.shields.io/badge/JsvaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black" ></a>
-    <a href="#"> <img src="https://img.shields.io/badge/NodeJs-239120?style=flat-square&logo=nodejs&logoColor=black" ></a>
-    <a href="#"> <img src="https://img.shields.io/badge/TypeScript-GH5643?style=flat-square&logo=typecript&logoColor=black" ></a>  
+    <a href="#"> <img src="https://img.shields.io/badge/NodeJs-239120?style=flat-square&logo=node.js&logoColor=black" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/TypeScript-f15314?style=flat-square&logo=typescript&logoColor=e3f709" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/SQL-349ADA?style=flat-square&logo=sql&logoColor=black" ></a>  
     </p>
   <h3> 🕵️‍♀️ Framworks and Libraaries</h3>
     <p>
@@ -89,5 +90,45 @@
     <a href="#"> <img src="https://img.shields.io/badge/NodeJs-239120?style=flat-square&logo=nodejs&logoColor=black" ></a>
     <a href="#"> <img src="https://img.shields.io/badge/TypeScript-GH5643?style=flat-square&logo=typecript&logoColor=black" ></a> 
     </p>
+    
+      
+
+   <!--Srtreak Status -->
+  <h3>🔥 Streak Stats</h3>
+    📊 Github Stats
+ 
+  <p>
+    <a href="https://github.com/khadim-swe/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khadim's streak" src="https://streak-stats.demolab.com/?        user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+    </a>
+    </p>
+    
+      <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/khadim-swe/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="khadim-swe's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  
+  
+ 
+
+  <a href="https://github.com/khadim-swe/github-readme-activity-graph"><img alt="khadim-swe's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=khadim-swe&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <h3>⚡ Recent GitHub Activity</h3>
+
+
+
+1. 🎉 Merged PR [#443](https://github.com/khadim-swe/github-readme-streak-stats/pull/443) in [khadim-swe/github-readme-streak-stats](https://github.com/khadim-swe/github-readme-streak-stats)
+2. 💪 Opened PR [#443](https://github.com/khadim-swe/github-readme-streak-stats/pull/443) in [khadim-swe/github-readme-streak-stats](https://github.com/khadim-swe/github-readme-streak-stats)
+3. ❗️ Closed issue [#433](https://github.com/khadim-swe/github-readme-streak-stats/issues/433) in [khadim-swe/github-readme-streak-stats](https://github.com/khadim-swe/github-readme-streak-stats)
+4. 🎉 Merged PR [#438](https://github.com/khadim-swe/github-readme-streak-stats/pull/438) in [khadim-swe/github-readme-streak-stats](https://github.com/khadim-swe/github-readme-streak-stats)
+5. ❗️ Closed issue [#432](https://github.com/khadim-swe/github-readme-streak-stats/issues/432) in [khadim-swe/github-readme-streak-stats](https://github.com/khadim-swe/github-readme-streak-stats)
+<!--END_SECTION:activity-->
+
+</details>
+
     
   
