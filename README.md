@@ -49,6 +49,45 @@
  ## 😃Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
- 
-  
+    
+    
+   <!-- My Favourite Tools -->
+ ## 🐱‍💻Latest Blog Post
+  <h3> 👨‍💻 Programing Languages</h3>
+    <p>
+    <a href="#"> <img src="https://img.shields.io/badge/C++-349BDB?style=flat-square&logo=c++&logoColor=black" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html&logoColor=black" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/CSS-234945?style=flat-square&logo=css&logoColor=black" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/JsvaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/NodeJs-239120?style=flat-square&logo=nodejs&logoColor=black" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/TypeScript-GH5643?style=flat-square&logo=typecript&logoColor=black" ></a>  
+    </p>
+  <h3> 🕵️‍♀️ Framworks and Libraaries</h3>
+    <p>
+    <a href="#"> <img src="https://img.shields.io/badge/C++-349BDB?style=flat-square&logo=c++&logoColor=black" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html&logoColor=black" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/CSS-234945?style=flat-square&logo=css&logoColor=black" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/JsvaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/NodeJs-239120?style=flat-square&logo=nodejs&logoColor=black" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/TypeScript-GH5643?style=flat-square&logo=typecript&logoColor=black" ></a> 
+    </p>
+  <h3> 🤩 Databases and Cloud Hosting</h3>
+    <p>
+    <a href="#"> <img src="https://img.shields.io/badge/C++-349BDB?style=flat-square&logo=c++&logoColor=black" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html&logoColor=black" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/CSS-234945?style=flat-square&logo=css&logoColor=black" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/JsvaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/NodeJs-239120?style=flat-square&logo=nodejs&logoColor=black" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/TypeScript-GH5643?style=flat-square&logo=typecript&logoColor=black" ></a> 
+    </p>
+  <h3> 🛠 Software and Tools </h3>
+        <p>
+    <a href="#"> <img src="https://img.shields.io/badge/C++-349BDB?style=flat-square&logo=c++&logoColor=black" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html&logoColor=black" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/CSS-234945?style=flat-square&logo=css&logoColor=black" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/JsvaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/NodeJs-239120?style=flat-square&logo=nodejs&logoColor=black" ></a>
+    <a href="#"> <img src="https://img.shields.io/badge/TypeScript-GH5643?style=flat-square&logo=typecript&logoColor=black" ></a> 
+    </p>
+    
   
